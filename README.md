@@ -7,6 +7,8 @@
 
 **Professor:** Érico Borgonove
 
+**Aluno:** Matheus Silva Farias
+
 **Objetivo:** Desenvolver uma API web utilizando Node.js e Sequelize, criando duas tabelas utilizando migrations e realizar operações de crud.
 
 
